@@ -2,7 +2,7 @@
 
 I'm Kweku Gideon
 
-          I am a Software Developer who is passionate about building and designing beautiful websites and mobile apps.
+          I am a Software Developer who is passionate about building beautiful websites and mobile apps.
           
 
 Here are some ideas to get you started:
