@@ -7,7 +7,6 @@ I'm Kweku Gideon
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a junior software engineering intern at a company.
 - 🌱 I’m currently learning C#.
 - 👯 Open for collaborations in Websites and Mobile apps with .Net FrameWork..
 - 🤔 I’m looking for help with Docker and AWS.
